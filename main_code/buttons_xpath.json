@@ -1,0 +1,33 @@
+{
+    "regione": {
+        "abruzzo": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[2]/a",
+        "basilicata": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[3]/a",
+        "calabria": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[4]/a",
+        "campania": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[5]/a",
+        "emilia romagna": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[6]/a",
+        "friuli venezia giulia": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[7]/a",
+        "lazio": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[8]/a",
+        "liguria": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[9]/a",
+        "lombardia": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[10]/a",
+        "marche": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[11]/a",
+        "molise": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[12]/a",
+        "piemonte": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[13]/a",
+        "puglia": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[14]/a",
+        "sardegna": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[15]/a",
+        "sicilia": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[16]/a",
+        "toscana": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[17]/a",
+        "trentino alto adige": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[18]/a",
+        "umbria": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[19]/a",
+        "valle d'aosta": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[20]/a",
+        "veneto": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[21]/a",
+        "all": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[6]/div/div/div/div/ul/li[1]/a"
+    },
+    "tipo": {
+        "maschile": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[9]/div/div/div/div/ul/li[2]/a",
+        "femminile": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[9]/div/div/div/div/ul/li[3]/a",
+        "doppio maschile":"//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[9]/div/div/div/div/ul/li[4]/a",
+        "doppio femminile":"//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[9]/div/div/div/div/ul/li[5]/a",
+        "doppio misto":"//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[9]/div/div/div/div/ul/li[6]/a",
+        "all": "//*[@id='div-init-table']/div[1]/div/div/div[3]/div[3]/div[9]/div/div/div/div/ul/li[1]/a"
+    }
+}
