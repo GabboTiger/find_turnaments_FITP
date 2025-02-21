@@ -6,7 +6,7 @@ Using this python program it is possibile to see all tournamnets in program, it 
 - region (from the ones avaible in the site)
 - type (mes, womens and duoble)
 
-###Extra features
+### Extra features
 There is also some features that using the site is not possible to use.
 Adding inside the file '[personal information](/find_turnaments_FITP/main_code/personal_info.json)' the informations required that are:
 - ranking -> your person ranking
