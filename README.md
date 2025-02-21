@@ -16,5 +16,5 @@ Adding inside the file '[personal information](/find_turnaments_FITP/main_code/p
 in this way it is possible to display in [file](/find_turnaments_FITP/main_code/turnaments.csv) only the tournaments that you can partecipate with your ranking and filter the tournaments that are too far away (max 1h by car)
 *the program will work also without this informations*
 
-**All the requiremt are inside the file [requirements.txt](/find_turnaments_FITP/requirements.txt)**
+**All the requirements are inside the file [requirements.txt](/find_turnaments_FITP/requirements.txt)**
 
